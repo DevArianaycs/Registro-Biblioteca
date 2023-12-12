@@ -1,0 +1,69 @@
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\Presentacion.pdb
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\Dominio.dll
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.dll
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\Dominio.pdb
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.exe
+D:\Users\Jaime\source\repos\AplicacionCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\Dominio.dll
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ariya\OneDrive\Documents\AplicacionCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\Dominio.dll
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmRegistrar.resources
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmVerHistorial.resources
+C:\Users\ariya\OneDrive\Documents\TEC\SISTEMAS 6\PROGRAMACIÓN DE BASES DE DATOS\U2\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmEliminar.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\Dominio.dll
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.dll
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\bin\Debug\AccesoDatos.pdb
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmActualizar.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmVerHistorial.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmRegistrar.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmEliminar.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.frmInicio.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.FrmLogin.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\ariya\Music\AplicacionCapas\Presentacion\obj\Debug\Presentacion.pdb
