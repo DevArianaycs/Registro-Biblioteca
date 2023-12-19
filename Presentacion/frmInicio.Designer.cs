@@ -96,6 +96,7 @@ namespace Presentacion
             this.label2.Size = new System.Drawing.Size(352, 29);
             this.label2.TabIndex = 6;
             this.label2.Text = "CENTRO DE INFORMACIÓN";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // chkInvitado
             // 
@@ -326,7 +327,7 @@ namespace Presentacion
             this.MainMenuStrip = this.msMenu;
             this.Name = "frmInicio";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Centro de información";
+            this.Text = " ";
             this.Load += new System.EventHandler(this.frmInicio_Load);
             this.msMenu.ResumeLayout(false);
             this.msMenu.PerformLayout();
