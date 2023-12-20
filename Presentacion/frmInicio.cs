@@ -174,7 +174,7 @@ namespace Presentacion
                         }
                         else
                         {
-                            msgErrorInicio("Selecciona una ocupación");
+                            msgErrorInicio("Elige una ocupación");
                         }
                     }       
                 }
